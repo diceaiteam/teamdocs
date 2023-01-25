@@ -1,0 +1,7 @@
+site_name: AI/ML@DICE
+theme: readthedocs
+nav:
+  - Home: 'index.md'
+  - Projects:
+    - 'Project1': 'projects/project1.md'
+    - 'Project2': 'projects/project2.md'
