@@ -24,6 +24,7 @@ For different projects, please see [Projects](./projects/project1.md) for its ow
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        projects/project1.md # The page is about the projects finished or ongoing 
-        projects/project2.md # The page is about the projects finished or ongoing 
+        projects/sample_project.md # The page is about the projects finished or ongoing 
+        projects/gpuserver.md # The page is about the projects finished or ongoing 
+        projects/writingdocs.md
         
