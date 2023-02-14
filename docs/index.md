@@ -32,6 +32,6 @@ Here is a brief guide to building the documentation tool from github, writing an
 1. Use `mkdocs build` to build the documentation. The output dir can be specified with -d option;
 2. Make sure the built dir is in gh-pages branch which is the default branch of publishing page;
 3. Connect the build site with [remote repo](https://github.com/diceaiteam/diceaiteam.github.io) if not already done;
-4. Push with overwrite: `git push -f origin gh-pages`;
+4. Commit locally first and then push with overwrite: `git push -f origin gh-pages`;
 5. Check [Actions](https://github.com/diceaiteam/diceaiteam.github.io/actions) of the github project and make sure the deployment is successful.
         
