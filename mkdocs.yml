@@ -2,7 +2,6 @@ site_name: AI/ML@DICE
 theme: readthedocs
 nav:
   - Home: 'index.md'
-  - Write the Doc: 'projects/writingdocs.md'
   - Resources: 
     - 'projects/gpuserver.md'
   - Projects:
